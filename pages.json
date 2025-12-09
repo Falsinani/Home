@@ -1,9 +1,9 @@
 {
   "pages": [
-    "about.html",
-    "contact.html",
-    "game.html",
-    "level2.html",
-    "level3.html"
+    "My_game/index.html",
+    "NumberRunner/index.html",
+    "Explorer/index.html",
+    "Guess_Emoji/index.html",
+    "Home/index.html"
   ]
 }
